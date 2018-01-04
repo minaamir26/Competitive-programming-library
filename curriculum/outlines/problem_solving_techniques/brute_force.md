@@ -43,6 +43,8 @@
 | SRM254-D1-500 |   Backtracking  |   |  |
 | SRM234-D1-500 |   Backtracking  |   |  |
 | Livearchive 2932 |   Backtracking  |   |  |
+| SRM171-Div1-500 | Backtracking    |   | |
+| CF-47-D | Backtracking   |   |  |
 
 
 ### Problem Set #3
